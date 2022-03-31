@@ -1,11 +1,10 @@
-###Welcome to the first homework!!!###
+## Welcome to the bonus Firewall homework!!!
 
-Deadline: Feb 8th @ 12:30pm
+Deadline: May 4th, 2022 @ 11:59pm EDT
 
 My suggestion towards how to start this homework:
 
-
-* read HW1.pdf and follow instructions;
+* read HW5.pdf and follow instructions;
 * copy firewall files;
 * get click to run;
 * read stateful firewall configuration files;
